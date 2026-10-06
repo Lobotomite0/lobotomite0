@@ -9,7 +9,7 @@
 <br />
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Lobotomite0&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=ffffff&ring_color=ffffff" />
+  <img height="160" src="https://github-stats-extended-backend-delta.vercel.app/api?username=Lobotomite0&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=ffffff&ring_color=ffffff" />
   <img height="160" src="https://streak-stats.demolab.com?user=Lobotomite0&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E&stroke=30363D" />
 </p>
 
