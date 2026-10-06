@@ -10,7 +10,7 @@
 
 <p align="center">
   <img height="160" src="https://github-stats-extended-backend-delta.vercel.app/api?username=Lobotomite0&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=ffffff&ring_color=ffffff" />
-  <img height="160" src="https://github-readme-streak-stats-py4uv7upy-lobotomite.vercel.app?user=Lobotomite0&timezone=Europe/Berlin&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E&stroke=30363D" />
+  <img height="160" src="https://github-readme-streak-stats-lobotomite.vercel.app?user=Lobotomite0&theme=highcontrast" />
 </p>
 
 <p align="center">
