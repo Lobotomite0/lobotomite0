@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=high-contrast)](https://github.com/Lobotomite0/github-readme-activity-graph" />
+  <img width="100%" src="https://github-readme-activity-graph-six-pi.vercel.app/graph?username=Lobotomite0&bg_color=0d1117&color=8b949e&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&hide_title=true" />
 </p>
 
 <p align="center">
